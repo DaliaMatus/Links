@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "dev":"nodemon src/server.js"
   },
   "keywords": [],
   "author": "dalia_matus <daliamatus@gmail.com> (https://www.npmjs.com/~dalia_matus)",
